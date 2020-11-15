@@ -11,18 +11,18 @@
     "products": [
     {
       "id": 1,
-      "name": "product 1",
-      "description":"description 1"
+      "name": "Royal Canin",
+      "description":"Alimento 12Kg"
     },
     {
       "id": 2,
-      "name": "product 2",
-      "description":"description 2"
+      "name": "Shampoo",
+      "description":"250 Cc"
     },
     {
       "id": 3,
-      "name": "product 3",
-      "description":"description 3"
+      "name": "Comedero",
+      "description":"Plastico"
     }
   ]
 }
